@@ -22,3 +22,11 @@ Load SMDK6410.axf to SDRAM address 0x5000000 with jtag.
 gdb> file SMDK6410.axf  
 gdb> load  
 gdb> run  
+
+```
+App_TaskStart: 0
+App_TaskStart: 1
+App_TaskStart: 2
+App_TaskStart: 3
+App_TaskStart: 4
+```
