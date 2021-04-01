@@ -18,10 +18,7 @@ make clean; make distclean; make clobber
 make all
 
 # Run
-Load SMDK6410.axf to SDRAM address 0x5000000 with jtag.
-
-gdb> file SMDK6410.axf
-
-gdb> load
-
-gdb> run
+Load SMDK6410.axf to SDRAM address 0x5000000 with jtag.  
+gdb> file SMDK6410.axf  
+gdb> load  
+gdb> run  
